@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="editText_style.xml" type="PLAIN_TEXT" />
+      <mapping pattern="editText_style" type="XML" />
+      <mapping pattern="editText_background" type="XML" />
+    </extensionMap>
+  </component>
+</application>
